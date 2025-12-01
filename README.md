@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Arash Azhdari</h1>
-<h3 align="center">CTO - Software Architecture Mentor - Tech Specialist</h3>
+### Hi, I'm Arash 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arashazhdary&label=Profile%20views&color=0e75b6&style=flat" alt="arashazhdary" /> </p>
+Senior Software Architect and Product minded engineer focused on building multi tenant, multi language SaaS platforms with .NET and modern React based frontends.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arashazhdary" alt="arashazhdary" /></a> </p>
+🔭 Currently building  
+A full stack AI assisted code generation ecosystem for  
+- SSO and identity platforms  
+- API gateway and ESB  
+- Form builder and workflow aware business apps  
 
-- 🔭 I’m currently working on [GenX.Coretexia - Ai Based System Code Generator](https://softwarearchitecture.cloud)
+🤖 Interests  
+- AI assisted development and code generation workflows  
+- Reinforcement learning applied to real world NLP problems  
+- Modular monolith architecture, clean architecture and DDD in practice  
 
-- 🌱 I’m currently learning **Reinforcement Learning on NLP**
+📝 I write regularly about software architecture and real world system design at  
+https://softwarearchitecture.cloud  
 
-- 📝 I regularly write articles on [https://softwarearchitecture.cloud](https://softwarearchitecture.cloud)
+💬 Ask me about  
+- .NET (8 and 10), modular monoliths, multi tenant SaaS  
+- SSO, API management, RBAC or ABAC  
+- How to turn messy ideas into shippable products  
 
-- 💬 Ask me about **Anything =)**
+📫 Reach me  
+- Email: arash.azhdary@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/arash-azhdari  
 
-- 📫 How to reach me **arash.azhdary@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/arash-azhdari](https://www.linkedin.com/in/arash-azhdari)
-
-- ⚡ Fun fact **Earth is Not Flat**
+⚡ Fun fact  
+Earth is not flat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
