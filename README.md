@@ -13,8 +13,7 @@ A full stack AI assisted code generation ecosystem for
 - Reinforcement learning applied to real world NLP problems  
 - Modular monolith architecture, clean architecture and DDD in practice  
 
-📝 I write regularly about software architecture and real world system design at  
-https://softwarearchitecture.cloud  
+📝 I write regularly about software architecture and real world system design.in LinkedIn
 
 💬 Ask me about  
 - .NET (8 and 10), modular monoliths, multi tenant SaaS  
